@@ -1,6 +1,6 @@
 import logo from './logo.svg'
 import './App.css'
-import Counter from './redux/counter.jsx'
+import Counter from './counter-redux/counter.jsx'
 
 function App() {
     return (
